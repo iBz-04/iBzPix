@@ -11,10 +11,7 @@
 
 import { urlEncode } from "./utils/urlEncode.js";
 
-/**
- * ! [ Do not share API_KEY in public ]
- * Follow my video instruction to get your api key
- */
+
 const /** {String} */ API_KEY =
     "4yK8ykS0l342kAeAebLQiZs8PmUj5R2u99ZO7L7yTpZF0BfDTK1Rnmkl";
 
