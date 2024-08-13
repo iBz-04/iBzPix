@@ -13,7 +13,7 @@ import { urlEncode } from "./utils/urlEncode.js";
 
 
 const /** {String} */ API_KEY =
-    "4yK8ykS0l342kAeAebLQiZs8PmUj5R2u99ZO7L7yTpZF0BfDTK1Rnmkl";
+    "API_KEY_GOES_HERE";
 
 const /** {Object} */ headers = new Headers();
 headers.append("Authorization", API_KEY);
