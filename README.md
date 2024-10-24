@@ -1,6 +1,6 @@
 # Project Title
 iBzPix:
-This is a stock photo web application where users can download high quality photos and videos for free.
+This is a stock photo web app where users can download high quality photos and videos for free.
 
 ## Tech Stack
 
